@@ -14,13 +14,10 @@ In late February, I set off to Tokyo for three months. I wasn't sure what I wan
 
 I also wanted to learn more about art and technology in Japan --- and in particular, how they used technology as a medium for their art. I went to as many art exhibits as I could. I made friends with [Misaki](https://twitter.com/misaki_mofu) (whose work I deeply admire) and we went to media art exhibits and explored Tokyo. I got to meet [Eiji](https://twitter.com/agektmr) through the [Google Developer Experts program](https://developers.google.com/experts/people/shirley-wu) and attend their monthly Tokyo meetups. I was referred to [HOLSTER](http://hlstr.jp/), a co-working space with many creatives, and I loved being surrounded by all their energy and talent.
 
-<div class='images left'
-  style='
-    grid-template-columns: repeat(3, auto)
-  '>
-<img src="https://miro.medium.com/max/3024/1*v9Tt9HNpcIzC7gjU_MHKjw@2x.jpeg" alt="">
-<img src="https://miro.medium.com/max/1024/1*YHoagzFpSis1uNPy1y3Sfg@2x.jpeg" alt="">
-<img src="https://miro.medium.com/max/3024/1*QxLruQ-daUgn2HLMbWKa8g@2x.jpeg" alt="">
+<div class='images left three'>
+  <img src="https://miro.medium.com/max/3024/1*v9Tt9HNpcIzC7gjU_MHKjw@2x.jpeg" alt="">
+  <img src="https://miro.medium.com/max/1024/1*YHoagzFpSis1uNPy1y3Sfg@2x.jpeg" alt="">
+  <img src="https://miro.medium.com/max/3024/1*QxLruQ-daUgn2HLMbWKa8g@2x.jpeg" alt="">
 </div>
 
 <div class='imagenote'>
@@ -47,23 +44,18 @@ I like San Francisco much more now.
 
 In my day to day, I feel quite unproductive, most likely because I set myself daily goals that I don't usually hit. I wanted to compile a list of projects --- finished and attempted --- that I worked on this year and hopefully be proud that overall, *I do produce.*
 
-![](https://miro.medium.com/max/30/1*dFwL5LLc8KWOaFTAbA2vSA.png?q=20)
+<div class='images left two'>
+  <img src="https://miro.medium.com/max/1919/1*dFwL5LLc8KWOaFTAbA2vSA.png" alt="">
+  <img src="https://miro.medium.com/max/700/1*urvUfaSIjunTzu-wF5An5A.jpeg" alt="">
+</div>
+<div class='images left two'>
+  <img src="https://miro.medium.com/max/2047/1*hlCGA-X1AksMgpNeut2uyQ.jpeg" alt="">
+  <img src="https://miro.medium.com/max/1486/1*1N-osG5rqmkpjOIID_XmgQ.png" alt="">
+</div>
 
-![](https://miro.medium.com/max/1919/1*dFwL5LLc8KWOaFTAbA2vSA.png)
-
-![](https://miro.medium.com/max/30/1*urvUfaSIjunTzu-wF5An5A.jpeg?q=20)
-
-![](https://miro.medium.com/max/700/1*urvUfaSIjunTzu-wF5An5A.jpeg)
-
-![](https://miro.medium.com/max/30/1*hlCGA-X1AksMgpNeut2uyQ.jpeg?q=20)
-
-![](https://miro.medium.com/max/2047/1*hlCGA-X1AksMgpNeut2uyQ.jpeg)
-
-![](https://miro.medium.com/max/30/1*1N-osG5rqmkpjOIID_XmgQ.png?q=20)
-
-![](https://miro.medium.com/max/1486/1*1N-osG5rqmkpjOIID_XmgQ.png)
-
-Projects from top left to bottom right: Colors of Taylor Swift, Send Me Love, filmflowers washi tape, legends.
+<div class='imagenote'>
+  Projects from top left to bottom right: Colors of Taylor Swift, Send Me Love, filmflowers washi tape, legends.
+</div>
 
 - [Colors of Taylor Swift](https://github.com/sxywu/taytay), abandoned side project (Aug 2017 --- Mar 2018).
 - Planet, in-progress client project (Feb --- May 2018).
