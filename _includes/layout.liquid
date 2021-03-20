@@ -3,10 +3,46 @@
   <head>
     <meta charset="utf-8">
     <title>{{ title }}</title>
+
+    <style>
+.content {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+article {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-gap: 20px;
+}
+
+article img {
+  max-width: 100%;
+}
+
+article .imagenote {
+  grid-column: 1 / 2;
+}
+
+article p, article h1,
+article ol, article ul {
+  grid-column: 2 / 3;
+}
+
+article .gutternote {
+  grid-column: 3 / 4;
+  text-align: center;
+}
+    </style>
   </head>
   <body>
-    <h1>{{ title }}</h1>
+    <div class='content'>
+      <a href='/'>← home</a>
+      <h1>{{ title }}</h1>
 
-    {{ content }}
+      <article>
+        {{ content }}
+      </article>
+    </div>
   </body>
 </html>
