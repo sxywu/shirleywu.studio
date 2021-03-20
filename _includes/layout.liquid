@@ -13,15 +13,24 @@
 
 article {
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-columns: 1.5fr 7fr 1.5fr;
+  grid-template-rows: min-content;
   grid-gap: 20px;
+  position: relative;
 }
 
 article .images {
   display: grid;
   grid-gap: 10px;
-  align-items: end;
-  text-align: right;
+  justify-items: start;
+}
+
+article .images.two {
+  grid-template-columns: repeat(2, auto);
+}
+
+article .images.three {
+  grid-template-columns: repeat(3, auto);
 }
 
 article .images.left {
@@ -32,8 +41,17 @@ article .images.center {
   grid-column: 2 / 3;
 }
 
-article img {
+article .images img {
+  min-width: 240px;
   max-width: 100%;
+  height: 100%;
+  min-height: 180px;
+  max-height: 360px;
+  object-fit: cover;
+}
+
+article .images img:first-child {
+  justify-self: end;
 }
 
 article .imagenote {
@@ -41,7 +59,12 @@ article .imagenote {
   color: #999;
 }
 
-article p, article h1,
+article h1 {
+  grid-column: 1 / -1;
+  border-bottom: 2px solid;
+}
+
+article p,
 article ol, article ul {
   margin-top: 0;
   margin-bottom: 0;
