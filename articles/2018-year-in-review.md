@@ -1,5 +1,6 @@
 ---
 title: 2018, A Year in Review
+date: 2019-01-07
 ---
 
 It's been a crazy 2.5 years since I quit my full-time job and started freelancing. The last two Decembers were so crazy (mostly because I had just finished projects I'm immensely proud of but were also very exhausting) that I didn't have the time to really reflect before the new year started going.
@@ -8,7 +9,7 @@ I'm slowly writing a post about everything I've learned so far about freelancing
 
 For now though, I just want to reflect on 2018 so that I can go forward with 2019.
 
-# The big things ✨
+## The big things ✨
 
 In late February, I set off to Tokyo for three months. I wasn't sure what I wanted from the trip other then I just knew I needed to get away from all the tech-tech-tech in San Francisco for a bit.
 
@@ -40,7 +41,7 @@ I also joined an adorable office studio in SF with [Amy](https://twitter.com/sa
 
 I like San Francisco much more now.
 
-# The projects I worked on ✨
+## The projects I worked on ✨
 
 In my day to day, I feel quite unproductive, most likely because I set myself daily goals that I don't usually hit. I wanted to compile a list of projects --- finished and attempted --- that I worked on this year and hopefully be proud that overall, *I do produce.*
 
@@ -78,7 +79,7 @@ Though only two of my client projects and one of my side projects were published
 
 I'm also proud of the [two new workshops I created](https://frontendmasters.com/teachers/shirley-wu/) (especially the custom dataviz one, for which I did *a lot* of research), and the [follow-up D3 + React talk I did for React Rally](https://www.youtube.com/watch?v=S1PDU2Ckt5w&t=2s). In total, I spoke at eight conferences and two meetups, and gave five workshops.
 
-# The goals I made ✨
+### The goals I made ✨
 
 In 2017, [Sarah](https://twitter.com/sarah_edo) told me about a New Year tradition of hers, where she'd sit down with her husband and her best friend and they'd reflect on the past year and write goals for the upcoming year with a bottle of wine.
 
@@ -101,7 +102,7 @@ I'm happy that I was able to achieve so many of my goals. The ones I wasn't able
 
 There are also two goals that I actively worked on but didn't finish, and will be carrying into 2019: finishing datasketch|es, and putting together a physical installation.
 
-# The biggest goal moving forward ✨
+## The biggest goal moving forward ✨
 
 For 2019, I have a lot of goals: finish the condo renovations, make $█k, finish datasketch|es, redesign and refactor my website, call my grandparents more, keep working on meaningful stories. Then I have my biggest goal: do more art.
 
